@@ -1,0 +1,29 @@
+.weather{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 15px
+}
+
+.MinMaxTemp{
+	display: flex;
+	flex-direction: row;
+}
+
+.MinMaxTemp div{
+	margin: 0px 25px 0px 25px
+}
+
+.cityName{
+	margin-bottom: 1px;
+	margin-top: 10px
+}
+
+.weatherDesc{
+	margin-bottom: 10px
+}
+
+.current_temp_h1{
+	margin-top: 0px;
+	margin-bottom: 5px
+}

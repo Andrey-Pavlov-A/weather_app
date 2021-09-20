@@ -1,0 +1,21 @@
+@fontface {
+  font-family: 'Poppins';
+  src: url('https://fonts.googleapis.com/css2?family=Poppins&display=swap')
+}
+
+
+.App{
+  margin: 0 auto;
+  margin-top: 100px;
+  border: 1px solid black;
+  width:300px;
+  height:400px;
+  display: flex;
+  justify-content: center;
+  box-shadow:6px 6px 8px 0px rgba(50, 50, 50, 0.74);
+  border-radius: 5px;
+  background-image: url("https://wallpaperaccess.com/full/1159905.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: white;
+}
